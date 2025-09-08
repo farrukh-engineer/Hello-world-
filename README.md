@@ -1,17 +1,6 @@
-# Hello-world-
-#This is a comment for explain what is going through 
-### I like coffe, ice-creem, and tea
-give me a cup of tea
-•@globalowner1
-* Italic:
-*Its good to see you here.*
-or
-_and continue more._
+# Untitled
 
-Bold and Italic:
-***dont ignor me, please.***
+A Pen created on CodePen.
 
-Strikethrough:
-~~see you tomorrow.~~
+Original URL: [https://codepen.io/Qurboniev/pen/YPyRMXq](https://codepen.io/Qurboniev/pen/YPyRMXq).
 
-Headings
